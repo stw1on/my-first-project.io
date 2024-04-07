@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Sona Template">
+    <meta name="keywords" content="Sona, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>serushpeek</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cabin:400,500,600,700&display=swap" rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/flaticon.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+    <!-- Offcanvas Menu Section Begin -->
+    <div class="offcanvas-menu-overlay"></div>
+    <div class="canvas-open">
+        <i class="icon_menu"></i>
+    </div>
+    <div class="offcanvas-menu-wrapper">
+        <div class="canvas-close">
+            <i class="icon_close"></i>
+        </div>
+        <div class="search-icon  search-switch">
+            <i class="icon_search"></i>
+        </div>
+        <div class="header-configure-area">
+            <div class="language-option">
+                <img src="img/flag.jpg" alt="">
+                <span>EN <i class="fa fa-angle-down"></i></span>
+                <div class="flag-dropdown">
+                    <ul>
+                        <li><a href="#">Zi</a></li>
+                        <li><a href="#">Fr</a></li>
+                    </ul>
+                </div>
+            </div>
+            <a href="#" class="bk-btn">Войти/зарегистрроватсья</a>
+        </div>
+        <nav class="mainmenu mobile-menu">
+            <ul>
+                <li class="active"><a href="./index.html">Главная</a></li>
+                <li><a href="./rooms.html">Rooms</a></li>
+                <li><a href="./about-us.html">About Us</a></li>
+                <li><a href="./pages.html">Pages</a>
+                    <ul class="dropdown">
+                        <li><a href="./room-details.html">Room Details</a></li>
+                        <li><a href="#">Deluxe Room</a></li>
+                        <li><a href="#">Family Room</a></li>
+                        <li><a href="#">Premium Room</a></li>
+                    </ul>
+                </li>
+                <li><a href="./blog.html">News</a></li>
+                <li><a href="./contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div id="mobile-menu-wrap"></div>
+        <div class="top-social">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-tripadvisor"></i></a>
+            <a href="#"><i class="fa fa-instagram"></i></a>
+        </div>
+        <ul class="top-widget">
+            <li><i class="fa fa-phone"></i> + 7 905 345 74 71</li>
+            <li><i class="fa fa-envelope"></i> serushpeek@gmail.com</li>
+        </ul>
+    </div>
+    <!-- Offcanvas Menu Section End -->
+
+    <!-- Header Section Begin -->
+    <header class="header-section">
+        <div class="top-nav">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <ul class="tn-left">
+                            <li><i class="fa fa-phone"></i> + 7 905 345 74 71</li>
+                            <li><i class="fa fa-envelope"></i> serushpeek@gmail.com</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="tn-right">
+                            <div class="top-social">
+                              
+                            </div>
+                            <a href="vhod.php" class="bk-btn">Войти/зарегистрироваться</a>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="menu-item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <div class="logo">
+                            <a href="index.php">
+                                <img src="img/Безымянный.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-10">
+                        <div class="nav-menu">
+                            <nav class="mainmenu">
+                                <ul>
+                                    <li><a href="index.php">Главная</a></li>
+                                    <li><a href="rooms.php">Кино</a></li>
+                                    <li class="active"><a href="blog.php">Театр</a></li>
+                                    <li>    
+                                        <ul class="dropdown">
+                                             
+                                         </ul>
+                                     </li>
+                                    <li><a href="./404.php">Новости</a></li>
+                                    <li><a href="contact.php">Контактные данные  </a></li>
+                                </ul>
+                            </nav>
+                            <div class="nav-right search-switch">
+                                <i class="icon_search"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Header End -->
+
+    <!-- Breadcrumb Section Begin -->
+    <div class="breadcrumb-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcrumb-text">
+                        <h2>Театр</h2>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb Section End -->
+
+    <!-- Blog Section Begin -->
+    <section class="blog-section blog-page spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/960a969a67ff0e5388c4a34d80e47a1a.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 1200 руб</span>
+                            <h4><a href="blog-details.php">Macan</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 11 Мая, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/2.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 500 руб</span>
+                            <h4><a href="blog-details.php">Ирина Шоркина</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 8 апреля, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/4timOVN4DWQ.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 500 руб</span>
+                            <h4><a href="./blog-details.html">группа DIVA</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 25 апреля, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/2109b929fdf8743e0f9149f9dcd8f2cced86d7eb.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 499 руб</span>
+                            <h4><a href="./blog-details.html">PINQ</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 2 ноября, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/3ae3353070cc2d80e52aaaf830c95d09_ce_2205x1468x0x759_cropped_1332x888.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 1300 руб</span>
+                            <h4><a href="./blog-details.html">Владимир Винокур</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 29 сентября, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/75cd8055-a35a-50c0-8b42-3f0fa4b71398.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 400 руб</span>
+                            <h4><a href="./blog-details.html">Симфонический блокбастер</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 19 апреля, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/104067.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 500 руб</span>
+                            <h4><a href="./blog-details.html">Максим Босх</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 21 мая, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/1.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 799 руб</span>
+                            <h4><a href="./blog-details.html">xxxmanera</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 26 октября, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item set-bg" data-setbg="img/index/92772e6f90f7fa3b29ff8aa90fc788b0.jpg">
+                        <div class="bi-text">
+                            <span class="b-tag">от 1400 руб</span>
+                            <h4><a href="./blog-details.html">Дуэт Пара</a></h4>
+                            <div class="b-time"><i class="icon_clock_alt"></i> 4 октября, 19:00</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Blog Section End -->
+
+    <!-- Footer Section Begin -->
+    <footer class="footer-section">
+        <div class="container">
+            <div class="footer-text">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="ft-about">
+                         
+                           
+                            <div class="fa-social">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="#"><i class="fa fa-youtube-play"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 offset-lg-1">
+                        <div class="ft-contact">
+                            <h6>Контактная информация</h6>
+                            <ul>
+                                <li>+7 905 345 74 71</li>
+                                <li>serushpeek@gmail.com</li>
+                               
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 offset-lg-1">
+                        <div class="ft-newslatter">
+                            <h6>Задать вопрос</h6>
+                            
+                            <form action="contact.php" class="fn-form">
+                                <input type="text" placeholder="">
+                                <button type="submit"><i class="fa fa-send"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-option">
+            <div class="container">
+                <div class="row">
+                   
+                    
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
+    
+    <!-- Js Plugins -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
